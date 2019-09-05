@@ -234,7 +234,7 @@ mkdir
 What command did you use?
 ----------
 
-cd
+cd /baz
 
 ==========
 23. Change your directory so that you're two directories up (foo)
@@ -271,7 +271,7 @@ cd ~
 28. What's a pathname?
 ----------
 
-name of any file
+Desktop
 
 ==========
 29. What's a directory?
